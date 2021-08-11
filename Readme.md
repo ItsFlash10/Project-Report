@@ -24,3 +24,10 @@
 - Once the mapping is complete we find the aggregate resultant of all the labels and posts that were taken as input. The aggregate result through statistical measure is then attributed to map whether the public sentiment relating to the specific target label is positive and what is the associated confidence of the particular product.  
 
 - The final result is shown in a tabulated form with all intermediary and final outputs including positive cases, negative cases, etc. This is further made more visually appealing by fixing the color gradient with respect to the confidence generated.  
+
+<h3 align="left"> Hardware and Software Requirements </h3>
+
+**Hardware** - Computer System, GPU.
+**Libraries Used** - Pandas, re, string, NumPy, textblob, preprocessor, nltk, stopwords, vaderSentiment, google.cloud, google.cloud.vision, urllib.request
+**API Required** - Google Cloud Vision API
+**Software** - Spyder (Python 3.7), Anaconda Enviroment.
