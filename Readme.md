@@ -1,3 +1,5 @@
-# Getting Started with Create React App
+Brand-Imaging using mining of Brand-related User-Generated content on Social Networking Services using Textual and Visual data inputs
 
-This project was bootstrapped with: [Create React App](https://github.com/facebook/create-react-app).
+Abstract
+
+This paper revolves around the approach to interpret data from Hashtags, Captions and Images of Social Networking Services to study brand related user generated content in order to gather insights of performance of brand related products using technologies involving emotion-sensing, image-classication, Label-clustering and mathematical indexing of output based on satisfaction levels of dierent products. product from images is combined with the sentiment calculated from hashtags and captions to nd the satisfaction level of various products that the brand wishes to know the performance of.
