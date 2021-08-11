@@ -28,6 +28,10 @@
 <h3 align="left"> Hardware and Software Requirements </h3>
 
 **Hardware** - Computer System, GPU.
+<br />
 **Libraries Used** - Pandas, re, string, NumPy, textblob, preprocessor, nltk, stopwords, vaderSentiment, google.cloud, google.cloud.vision, urllib.request
+<br />
 **API Required** - Google Cloud Vision API
+<br />
 **Software** - Spyder (Python 3.7), Anaconda Enviroment.
+<br />
