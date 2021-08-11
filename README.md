@@ -68,19 +68,19 @@ As explained in the proposed methodology about the various tasks that have been 
 5. While the Sentiments have been recorded we go on to read the labels of the image and use the model involving Google cloud vision to detect the labels and store the count of each as shown in fig 5.
 <br />
 <br />
-<img src="images/3 - labels found after image classification using google cloud vision along with their aggregate sentiment value..jpg" alt="Smiley face" width = "800"  height = "400">
+<img src="images/3 - labels found after image classification using google cloud vision along with their aggregate sentiment value..jpg" alt="Smiley face" width = "350"  height = "400">
 
 <p align="left"> 
 6. While the sentiments were given in textual format of Positive, Negative and Neutral we used the code as shown in snippet in Fig 6 to allot numeric values of +1, 0, -1 as per the sentiment recorded post emotion sensing.
 <br />
 <br />
-<img src="images/2.jpg" alt="Smiley face" width = "800"  height = "400">
+<img src="images/2.jpg" alt="Smiley face" width = "600"  height = "400">
 
 <p align="left"> 
 7. As earlier explained in the proposed methodology we have used label clustering from the image to point on some labels that actually relate to specific products. For example P1 Product has L1,L2...Ln labels. Some examples of these labels and corresponding Main products have been shown in Fig 7.
 <br />
 <br />
-<img src="images/3.jpg" alt="Smiley face" width = "800"  height = "400">
+<img src="images/3.jpg" alt="Smiley face" width = "600"  height = "400">
 
 <p align="left"> 
 8. The entire process has been made to generate the final result that is displayed in the Fig 8.The Result includes index number of the product similar to the product code and has been sorted on the basis of Satisfaction level. The Result has been made visually appealing by using color gradient to show the confidence level or Positivity index of a product. Currently for clarity we are also showing exactly how many positive negative and neutral values are given so as to know how dense is the penetration of the product in the mass.
