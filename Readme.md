@@ -35,3 +35,16 @@
 <br />
 **Software** - Spyder (Python 3.7), Anaconda Enviroment.
 <br />
+
+## Results
+
+As explained in the proposed methodology about the various tasks that have been in fact taken to generate the desired output of Brand imaging by product satisfaction levels of different products (8, in this case) for the brand McDonald’s. We present a therefore result set for the progress to share the way the final results have been derived in a step by step process:
+
+1. In the Fig 1, we can see that this is the window of the APIFY software that we used to scrap relevant posts with required hashtags. Here we are inputting the Tag, the number of photos we want to scrap off, and then we give it a go to get the desired set of results.
+
+<img src="images/1.jpg" alt="Smiley face" width = "800"  height = "400">
+
+
+
+
+
