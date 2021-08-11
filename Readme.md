@@ -1,4 +1,4 @@
-<h1 align="center">Brand-Imaging using mining of Brand-related User-Generated content on Social Networking Services using Textual and Visual data inputs </h1>
+<h3 align="center">Brand-Imaging using mining of Brand-related User Generated content on Social Networking Services using Textual and Visual data inputs </h1>
 
 <h1 align="center"> Abstract </h1>
 
