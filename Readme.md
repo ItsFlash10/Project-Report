@@ -40,6 +40,7 @@
 
 As explained in the proposed methodology about the various tasks that have been in fact taken to generate the desired output of Brand imaging by product satisfaction levels of different products (8, in this case) for the brand McDonald’s. We present a therefore result set for the progress to share the way the final results have been derived in a step by step process:
 
+<p align="left"> 
 1. In the Fig 1, we can see that this is the window of the APIFY software that we used to scrap relevant posts with required hashtags. Here we are inputting the Tag, the number of photos we want to scrap off, and then we give it a go to get the desired set of results.
 
 <img src="images/1.jpg" alt="Smiley face" width = "800"  height = "400">
@@ -71,6 +72,7 @@ As explained in the proposed methodology about the various tasks that have been 
 8. The entire process has been made to generate the final result that is displayed in the Fig 8.The Result includes index number of the product similar to the product code and has been sorted on the basis of Satisfaction level. The Result has been made visually appealing by using color gradient to show the confidence level or Positivity index of a product. Currently for clarity we are also showing exactly how many positive negative and neutral values are given so as to know how dense is the penetration of the product in the mass.
 
 <img src="images/4 - final output after finding the sentimental value and confidence value for each cluster of labels..jpg" alt="Smiley face" width = "800"  height = "400">
+</p>
 
 ## Conclusion 
 
