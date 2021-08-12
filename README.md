@@ -50,7 +50,7 @@ As explained in the proposed methodology about the various tasks that have been 
 2. In the Fig 2 we can see that post the scrapping has been done we have stored the scrapped content in a form where all the captions, Hashtags of the post, Comments on the post and the URL of the image has been stored. This data is then used in sentiment analysis.
 <br />
 <br />
-<img src="images/1 - dataset_1.jpg" alt="Smiley face" width = "800"  height = "400">
+<img src="images/1 - dataset_1.jpg" alt="Smiley face" width = "600"  height = "400">
 
 <p align="left"> 
 3. While in earlier image we saw the image URLs were given, the Image in actuality has been stored in the local drive (as shown in Fig 3), of the workstation where all photos have been sequentially stored for performing the Image label detection.
@@ -62,13 +62,13 @@ As explained in the proposed methodology about the various tasks that have been 
 4. From Fig 2, we used the data in that form and performed the sentiment analysis on the caption that included the emojis and all hot-keywords to detect the emotion as shown in in Fig 4.The sentiments have been stored in as Positive Negative or Neutral.
 <br />
 <br />
-<img src="images/2 - Output after cleaning (pre-processing) the caption, seperating the hashtags and finiding the sentiment value of caption.jpg" alt="Smiley face" width = "800"  height = "400">
+<img src="images/2 - Output after cleaning (pre-processing) the caption, seperating the hashtags and finiding the sentiment value of caption.jpg" alt="Smiley face" width = "720">
 
 <p align="left"> 
 5. While the Sentiments have been recorded we go on to read the labels of the image and use the model involving Google cloud vision to detect the labels and store the count of each as shown in fig 5.
 <br />
 <br />
-<img src="images/3 - labels found after image classification using google cloud vision along with their aggregate sentiment value..jpg" alt="Smiley face" width = "350"  height = "400">
+<img src="images/3 - labels found after image classification using google cloud vision along with their aggregate sentiment value..jpg" alt="Smiley face" width = "250"  height = "400">
 
 <p align="left"> 
 6. While the sentiments were given in textual format of Positive, Negative and Neutral we used the code as shown in snippet in Fig 6 to allot numeric values of +1, 0, -1 as per the sentiment recorded post emotion sensing.
